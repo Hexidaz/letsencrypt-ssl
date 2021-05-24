@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!conf.d
+!conf.d/*
+!docker-compose.yml
